@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+	<metadata>
+		<id>$id$</id>
+		<version>$version$</version>
+		<authors>Luke McGregor</authors>
+		<description>A way of expanding extension methods in your LINQ expressions so that it can be interperated by a third party who doesn't understand your extensions</description>
+		<projectUrl>https://github.com/lukemcgregor/LinqExpander</projectUrl>
+		<licenseUrl>https://raw.githubusercontent.com/lukemcgregor/LinqExpander/master/LICENSE</licenseUrl>
+	</metadata>
+</package>
